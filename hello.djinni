@@ -1,0 +1,4 @@
+hello = interface +c {
+    static create(): hello;
+    set_string(text: string): string;
+}
